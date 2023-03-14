@@ -1,0 +1,10 @@
+{
+  "description": "A simple nft example of my selfie",
+  "image": "ipfs://QmaMvu9urBJpoJJhrs2xHv5iVVBVkAX2nPoKo8QuQKmxpH",
+  "name": "Selfie",
+  "attributes": [
+    {"trait_type": "Base", "value": "round head"},
+    {"trait_type": "Face", "value": "round face"},
+    {"trait_type": "Glasses", "value": "has glasses"}
+  ]
+}
